@@ -37,9 +37,9 @@
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=sass&svgfill=cd6799">
 </a>
 
-<!-- <a href="https://github.com/berdi00/readme-components">
+<a href="https://github.com/berdi00/readme-components">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=f06629">
-</a> -->
+</a>
 <a href="https://github.com/berdi00/readme-components">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
 </a>
@@ -51,10 +51,7 @@
 </a>
 </p>
 
-<!--
 ## My Skills 💻
-
-
 
 <p align="left">
 <a href="https://github.com/berdi00/readme-components">
@@ -76,18 +73,13 @@
 <img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=GIT&value=70&design=candy&fill=ff69b4">
 </a>
 </p>
--->
 
-<!--
 # Coming soon 🚀
 
-
-
-<p align="left">
+<!-- <p align="left">
 <a href="https://github.com/berdi00/readme-components">
 <img  src="https://readme-components.vercel.app/api?component=">
 </a>
-</p>
--->
+</p> -->
 
 # Made with :purple_heart: using components from [Readme components](https://github.com/berdi00/readme-components)
