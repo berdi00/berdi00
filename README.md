@@ -8,7 +8,7 @@
 
 <p align="left">
 <a href="https://github.com/berdi00/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=experience&company=CRED_CLUB&role=Frontend%20Engineer%20&location=Bangalore&fill=black">
+<img  src="https://readme-components.vercel.app/api?component=experience&company=MILLIGOSHANT&role=Frontend%20Engineer%20&location=Ashgabat&fill=black">
 </a>
 <a href="https://github.com/berdi00/readme-components">
 <img  src="https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=23205623&textfill=black&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A">
