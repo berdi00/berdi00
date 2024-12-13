@@ -31,4 +31,8 @@
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berdi00&theme=react&layout=compact" />
 </p>
 
+<p align= "center">
+  <img src="https://profile-counter.glitch.me/berdi00/count.svg">
+</p>
+
 
